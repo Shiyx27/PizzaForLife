@@ -23,10 +23,8 @@ Are you a pizza lover? Want to add some extra cheesiness to your browsing experi
 
 Turn your web browsing into a delicious adventure today! Install Pizza For Life and enjoy an endless feast of cheesy goodness. 🍕🔥
 
- <img width="500" alt="BEFORE1" src="https://github.com/user-attachments/assets/29ddf550-7ca8-4aea-a558-1577165705ac" />
-<img width="500" alt="After1" src="https://github.com/user-attachments/assets/4eb1fe05-b5d8-43c0-a872-7f3019d48257" />
-<br />
-﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# ﻿# 
-<br />
- <img width="500" alt="Before2" src="https://github.com/user-attachments/assets/b18fdc02-dfc2-44d6-8a97-32cfffabcdf7" />
- <img width="500" alt="After2" src="https://github.com/user-attachments/assets/56d22928-f427-48c6-88bb-8e78b378fbb3" />
+ <img width="700" alt="BEFORE1" src="https://github.com/user-attachments/assets/29ddf550-7ca8-4aea-a558-1577165705ac" />
+<img width="700" alt="After1" src="https://github.com/user-attachments/assets/4eb1fe05-b5d8-43c0-a872-7f3019d48257" />
+
+ <img width="700" alt="Before2" src="https://github.com/user-attachments/assets/b18fdc02-dfc2-44d6-8a97-32cfffabcdf7" />
+ <img width="700" alt="After2" src="https://github.com/user-attachments/assets/56d22928-f427-48c6-88bb-8e78b378fbb3" />
